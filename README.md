@@ -20,7 +20,9 @@ We loaded and cleaned all of our weather and corn yield data in R. Since we pull
 We hope that this project can be used by farmers, agrobusiness companies, local governments, and others to predict corn yield in different parts of the world with similar regions as the U.S.
 
 ## Challenges
-Our main challenge was probably losing two of our group members (one the day before the hackathon, and the other the day of the hackathon). These members likely would have given us the time/flexibility to produce a much higher quality finished product, however, we had a lot of fun regardless and think everything worked out.
+Our main challenge was probably losing two of our group members (one the day before the hackathon, and the other the day of the hackathon). These members likely would have given us the time/flexibility to produce a much higher quality finished product, however, we had a lot of fun regardless and think everything worked out. 
+
+Another challenging aspect of our project is that our idea for how to figure out the type of climate the user is from is extremely flawed. In the future we would likely add many more different types of locations and get much more specific about how location affects the final result.
 
 ## Limitations
 We didn't have access to a web-hosting service, so we weren't able to implement a more robust, dynamic app.

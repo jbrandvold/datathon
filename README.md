@@ -33,9 +33,10 @@ pip3 install flask-cors
 pip3 install torch
 pip3 install numpy
 ```
+You must run the backend.py before using the website. Open index.html, preferably with a live server. To try out the predictor you can enter any .csv file with a size of 1*72. We have included a real temperature/precipitation test file for your convenience.
 
 ## Contact Information
-TODO
+gkrajewski@wisc.edu
 
 ## Sources
 NOAA National Centers for Environmental information, Climate at a Glance: Statewide Time Series,   

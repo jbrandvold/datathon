@@ -26,7 +26,13 @@ TODO
 We didn't have access to a web-hosting service, so we weren't able to implement a more robust, dynamic app.
 
 ## Instructions for Use
-TODO
+To use this model please dowload the requities python libraries (we recommend using a virtual environment for this) using the following commands:
+'''
+pip3 install flask
+pip3 install flask-cors
+pip3 install torch
+pip3 install numpy
+'''
 
 ## Contact Information
 TODO

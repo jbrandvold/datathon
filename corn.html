@@ -1,6 +1,19 @@
 <h> Corn Regression Model </h>
 
-"Before you upload your region's weather data, please answer these questions:"
+<p>"Before you upload your weather data, please choose the descriptors which best describes the growing conditions in your region:"</p>
+
+<form action="/data.html">
+  <label for="cars">Choose:</label>
+  <select name="cars" id="cars">
+    <option value="hch">Humid, coastal, hot</option>
+    <option value="hcc">Humid, coastal, cold</option>
+    <option value="hih">Humid, inland, hot</option>
+    <option value="hic">Humid, inland, cold</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
 
 <label for="avatar">Input weather data:</label><br>
 <input type="file" accept=".csv" />

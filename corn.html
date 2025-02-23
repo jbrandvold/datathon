@@ -2,7 +2,7 @@
 
 <p>"Before you upload your weather data, please choose the descriptors which best describes the growing conditions in your region:"</p>
 
-<form action="/data.html">
+<form action="data.html">
   <label for="regions">Choose:</label>
   <select name="regions" id="regions">
     <option value="hch">Humid, coastal, hot</option>
@@ -15,8 +15,11 @@
     <option value="hic">Dry, inland, cold</option>
   </select>
   <br><br>
+  <label for="avatar">Input weather data:</label><br>
+  <input type="file" accept=".csv" />
   <input type="submit" value="Submit">
 </form>
 
-<label for="avatar">Input weather data:</label><br>
+<!-- <label for="avatar">Input weather data:</label><br>
 <input type="file" accept=".csv" />
+ -->

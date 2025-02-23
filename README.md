@@ -13,6 +13,7 @@ We decided to use U.S. states' weather data (1975-2024) and the annual corn yiel
 6. Dry inland cold
 7. Dry coastal cold
 8. Dry coastal hot
+
 We loaded and cleaned all of our weather and corn yield data in R. Since we pulled the datasets from many different sources, we condensed the data into state-specific dataframes. We implemented a deep neural network (DNN) to find relationships between our weather data, regions, and crop yields, and make corn yield predictions.
 
 ## Uses

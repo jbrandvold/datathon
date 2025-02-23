@@ -37,6 +37,8 @@ You must run the backend.py before using the website. Open index.html, preferabl
 
 ## Contact Information
 gkrajewski@wisc.edu
+jbrandvold@wisc.edu
+cchen744@wisc.edu
 
 ## Sources
 NOAA National Centers for Environmental information, Climate at a Glance: Statewide Time Series,   
